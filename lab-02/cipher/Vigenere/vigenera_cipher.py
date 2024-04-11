@@ -1,5 +1,5 @@
 class VigenereCipher:
-    def __init__(self) -> None:
+    def __init__(self):
         pass
 
     def vigenere_encrypt(self, plain_text, key):
